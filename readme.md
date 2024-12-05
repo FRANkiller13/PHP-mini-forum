@@ -9,7 +9,7 @@
 ❗Upcoming features on paid version❗  
 ➡️ Avatar  
 ➡️ Profile  
-➡️✅ Edit your posts  
+➡️✅ Edit your posts/replies  
 ➡️ Lost password  
 ➡️ Remove posts [Admin permissions]  
 ➡️ Remove Categories [Admin permissions]  
