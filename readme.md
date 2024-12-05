@@ -6,10 +6,10 @@
 
 ✅➡️ Maximum 5 posts per category and you can view all posts from the category by clicking on [View All Posts]  
 
-❗Upcoming features❗  
+❗Upcoming features on paid version❗  
 ➡️ Avatar  
 ➡️ Profile  
-➡️ Edit your posts  
+➡️✅ Edit your posts  
 ➡️ Lost password  
 ➡️ Remove posts [Admin permissions]  
 ➡️ Remove Categories [Admin permissions]  
