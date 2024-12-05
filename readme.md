@@ -2,7 +2,7 @@
 ✅ Created * Categories  
 ✅ Created * View post's  
 ✅ Created * Create new post  
-✅ Created * Create new category (index.php?id=create_category.php)  
+✅ Created * Create new category (link/create_category.php)  
 
 ✅➡️ Maximum 5 posts per category and you can view all posts from the category by clicking on [View All Posts]  
 
