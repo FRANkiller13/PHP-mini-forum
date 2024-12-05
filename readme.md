@@ -14,7 +14,7 @@
 ➡️ Remove posts [Admin permissions]  
 ➡️ Remove Categories [Admin permissions]  
 ➡️ Ban users [Admin permissions]  
-➡️ Embed links [Youtube & Pictures]  
+➡️✅ Embed links [Youtube & Pictures]  
 
 🔊 Join my Discord server: https://discord.gg/Pfxn82sgcw  
 🌐 My Website: https://Fran.restream.gr/  
