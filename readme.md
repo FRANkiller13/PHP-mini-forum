@@ -16,8 +16,11 @@
 ➡️ Ban users [Admin permissions]  
 ➡️ Embed links [Youtube & Pictures]  
 
+🔊 Join my Discord server: https://discord.gg/Pfxn82sgcw  
+🌐 My Website: https://Fran.restream.gr/  
+
 Please do not remove credits ❤️  
-I will upload the project in 1 day  
+Enjoy my little project ❤️  
   
 ![](https://github.com/FRANkiller13/mini-forum/blob/main/Forum.png)  
 ![](https://github.com/FRANkiller13/mini-forum/blob/main/login.png)  
