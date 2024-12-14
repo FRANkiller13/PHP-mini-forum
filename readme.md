@@ -7,14 +7,22 @@
 ✅➡️ Maximum 5 posts per category and you can view all posts from the category by clicking on [View All Posts]  
 
 ❗Upcoming features on paid version❗  
-➡️ Avatar  
-➡️ Profile  
+➡️✅ Avatar  
+➡️✅ Profile  
 ➡️✅ Edit your posts/replies  
 ➡️ Lost password  
 ➡️ Remove posts [Admin permissions]  
 ➡️ Remove Categories [Admin permissions]  
 ➡️ Ban users [Admin permissions]  
 ➡️✅ Embed links [Youtube & Pictures]  
+
+❗Change logs on paid version❗  
+⚫ Added Change password  
+⚫ Added Viewable profile by other users  
+⚫ Added Bio on profile's  
+⚫ Added Avatar on profile's  
+⚫ Added Avatar's on posts and replies  
+
 
 🔊 Join my Discord server: https://discord.gg/Pfxn82sgcw  
 🌐 My Website: https://Fran.restream.gr/  
