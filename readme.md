@@ -11,6 +11,7 @@
 ➡️✅ Profile  
 ➡️✅ Edit your posts/replies  
 ➡️ Lost password  
+➡️✅ Lock/Close posts [Admin/Moderator permissions]  
 ➡️ Remove posts [Admin permissions]  
 ➡️ Remove Categories [Admin permissions]  
 ➡️ Ban users [Admin permissions]  
@@ -22,6 +23,8 @@
 ⚫ Added Bio on profile's  
 ⚫ Added Avatar on profile's  
 ⚫ Added Avatar's on posts and replies  
+⚫ Added Roles [Admin, Moderator, Gold, Donator, User]  
+⚫ Added Admins can close the post replies on any post  
 
 
 🔊 Join my Discord server: https://discord.gg/Pfxn82sgcw  
