@@ -7,17 +7,17 @@
 ✅➡️ Maximum 5 posts per category and you can view all posts from the category by clicking on [View All Posts]  
 
 ❗Upcoming features on paid version❗  
-➡️✅ Avatar  
-➡️✅ Profile  
-➡️✅ Edit your posts/replies  
 ➡️ Lost password  
-➡️✅ Lock/Close posts [Admin/Moderator permissions]  
 ➡️ Remove posts [Admin permissions]  
 ➡️ Remove Categories [Admin permissions]  
 ➡️ Ban users [Admin permissions]  
-➡️✅ Embed links [Youtube & Pictures]  
 
 ❗Change logs on paid version❗  
+⚫ Added Profile  
+⚫ Added Avatar's  
+⚫ Added Embed links [Youtube & Imgur Pictures and gif's]  
+⚫ Added Edit your posts/replies  
+⚫ Added Lock/Close posts [Admin/Moderator permissions]  
 ⚫ Added Change password  
 ⚫ Added Viewable profile by other users  
 ⚫ Added Bio on profile's  
