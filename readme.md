@@ -25,7 +25,7 @@
 ⚫ Added Avatar's on posts and replies  
 ⚫ Added Roles [Admin, Moderator, Gold, Donator, User]  
 ⚫ Added Admins can close the post replies on any post  
-⚫ Added <hide> Content </hide> on posts and the users must reply to unhide the content  
+⚫ Added &lt;hide&gt; Content &lt;/hide&gt; on posts and the users must reply to unhide the content  
 
 
 🔊 Join my Discord server: https://discord.gg/Pfxn82sgcw  
