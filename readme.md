@@ -15,7 +15,7 @@
 ❗Change logs on paid version❗  
 ⚫ Added Profile  
 ⚫ Added Avatar's  
-⚫ Added Embed links [Youtube & Imgur Pictures and gif's]  
+⚫ Added Embed links on posts [Youtube & Imgur Pictures and gif's]  
 ⚫ Added Edit your posts/replies  
 ⚫ Added Lock/Close posts [Admin/Moderator permissions]  
 ⚫ Added Change password  
