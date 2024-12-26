@@ -30,7 +30,7 @@
 ⚫ Added New font  
 ⚫ Added Name Color's on each roles  
 
-🔊 Join my Discord server: https://discord.gg/Pfxn82sgcw  
+🔊 Join my Discord server: https://discord.restream.gr/  
 🌐 My Website: https://Fran.restream.gr/  
 
 Please do not remove credits ❤️  
