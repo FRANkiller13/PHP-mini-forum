@@ -30,7 +30,9 @@
 ⚫ Added New font  
 ⚫ Added Name Color's on each roles  
 
+⭐ Please if you like the project add a Star (Thank you)  
 🔊 Join my Discord server: https://discord.restream.gr/  
+✉️ Contact: Fran@restream.gr  
 🌐 My Website: https://Fran.restream.gr/  
 
 Please do not remove credits ❤️  
