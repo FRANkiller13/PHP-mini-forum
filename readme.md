@@ -41,4 +41,4 @@ Enjoy my little project ❤️
 ![](https://github.com/FRANkiller13/mini-forum/blob/main/Forum.png)  
 ![](https://github.com/FRANkiller13/mini-forum/blob/main/login.png)  
 ![](https://github.com/FRANkiller13/mini-forum/blob/main/reg.png)  
-![](https://github.com/FRANkiller13/mini-forum/blob/main/viewpost.png)  
+![](https://github.com/FRANkiller13/mini-forum/blob/main/viewpost.png)
