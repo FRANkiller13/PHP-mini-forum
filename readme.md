@@ -6,6 +6,8 @@
 
 ✅➡️ Maximum 5 posts per category and you can view all posts from the category by clicking on [View All Posts]  
 
+⚠️ This is the **Free version** for everyone  
+
 ❗Upcoming features on paid version❗  
 ➡️ Lost password  
 ➡️ Remove posts [Admin permissions]  
